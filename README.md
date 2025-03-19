@@ -10,7 +10,9 @@ A coder that always make mistakes.
 
 ~~Beacause I am only in grade 6~~
 
-<a mailto="wuyiming.1263@outlook.com">Email</a>
+wuyiming.1263@outlook.com
+
+I won't check my Github issue, so you can mail to me
 
 ## How does it work
 
@@ -68,7 +70,7 @@ If you can install PHP, Apache2, MySQL, and Redis on your operating system, you 
 
 ### Other
 
-If you find some mistakes, please tell me, or you can send me the right code! (~~I won't tell you I am lazy~~
+If you find some mistakes, please tell me!
 
 ## Support
 
